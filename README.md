@@ -1,7 +1,6 @@
 ## Setup
-### Install OpenCV
+### Install OpenCV and add it to the project
 https://docs.opencv.org/3.4/d1/d0a/tutorial_java_eclipse.html
-
 
 ## Next steps
 - [ ] allow use of test images in addition to feed from camera
