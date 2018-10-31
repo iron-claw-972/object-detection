@@ -1,3 +1,12 @@
+## Next steps
+- [ ] allow also use of images instead of camera
+- [ ] separate image detection logic to be used on the robot
+- [ ] find out the way to detect lines
+- [ ] for known objects give answer as x,y relative to camera
+- [ ] add tests
+
+
+
 ## Object Recognition with OpenCV and JavaFX
 
 *Computer Vision course - [Politecnico di Torino](http://www.polito.it)*
