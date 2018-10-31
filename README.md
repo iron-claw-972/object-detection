@@ -1,9 +1,9 @@
 ## Next steps
-- [ ] allow also use of images instead of camera
-- [ ] separate image detection logic to be used on the robot
-- [ ] find out the way to detect lines
-- [ ] for known objects give answer as x,y relative to camera
+- [ ] allow use of test images in addition to feed from camera
 - [ ] add tests
+- [ ] separate image detection logic to be used independently on the robot
+- [ ] find a way to detect lines
+- [ ] give answer as x,y relative to camera
 
 
 
