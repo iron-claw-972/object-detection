@@ -7,7 +7,7 @@ https://docs.opencv.org/3.4/d1/d0a/tutorial_java_eclipse.html
 - [ ] add tests
 - [ ] separate image detection logic to be used independently on the robot
 - [ ] find a way to detect lines
-- [ ] give answer as x,y relative to camera
+- [ ] give answer as x,y relative to camera position
 
 
 
